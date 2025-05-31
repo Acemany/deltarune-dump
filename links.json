@@ -106,8 +106,7 @@
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/ie-back.png",
-      "https://deltarune.com/assets/images/ie-info.png",
-      "https://deltarune.com/assets/images/ie-search.png"
+      "https://deltarune.com/assets/images/ie-info.png"
     ],
     "https://deltarune.com/egg": [
       "https://deltarune.com/assets/css/journal.css",
