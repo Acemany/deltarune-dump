@@ -45,11 +45,23 @@
     ],
     "deltarune.com/assets/css/journal.css": [
       "deltarune.com/assets/fonts/8bitOperatorPlus-Bold.svg",
-      "deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg"
+      "deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg",
+      "deltarune.com/assets/images/bg-tree.png"
     ],
     "deltarune.com/assets/css/main_en.css": [
       "deltarune.com/assets/fonts/8bitOperatorPlus-Bold.svg",
-      "deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg"
+      "deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg",
+      "deltarune.com/assets/images/bg.gif",
+      "deltarune.com/assets/images/ribbon.png"
+    ],
+    "deltarune.com/assets/css/spamton.css": [
+      "deltarune.com/assets/images/bar-1.png",
+      "deltarune.com/assets/images/bar-2.png",
+      "deltarune.com/assets/images/bar-back.png",
+      "deltarune.com/assets/images/bar-fill.gif",
+      "deltarune.com/assets/images/parchment-middle.png",
+      "deltarune.com/assets/images/parchment-top.png",
+      "deltarune.com/assets/images/price-tag.png"
     ],
     "deltarune.com/blink": [
       "cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
