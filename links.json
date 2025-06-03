@@ -78,12 +78,19 @@
       "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.svg"
     ],
     "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js": [
+      "https://deltarune.com/assets/audio/bagel_ralsei.mp3",
       "https://deltarune.com/assets/audio/bagel_ralsei.ogg",
+      "https://deltarune.com/assets/audio/bagel_susie.mp3",
       "https://deltarune.com/assets/audio/bagel_susie.ogg",
+      "https://deltarune.com/assets/audio/chord.mp3",
       "https://deltarune.com/assets/audio/chord.ogg",
+      "https://deltarune.com/assets/audio/face.mp3",
       "https://deltarune.com/assets/audio/face.ogg",
+      "https://deltarune.com/assets/audio/ma.mp3",
       "https://deltarune.com/assets/audio/ma.ogg",
+      "https://deltarune.com/assets/audio/slam.mp3",
       "https://deltarune.com/assets/audio/slam.ogg",
+      "https://deltarune.com/assets/audio/sprinkle.mp3",
       "https://deltarune.com/assets/audio/sprinkle.ogg",
       "https://deltarune.com/assets/images/cat-001.gif",
       "https://deltarune.com/assets/images/cat-002.gif",
@@ -120,6 +127,8 @@
     "https://deltarune.com/blink/": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/blink.mp3",
+      "https://deltarune.com/assets/audio/blink.ogg",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/blink1.png",
       "https://deltarune.com/assets/images/blink2.png"
@@ -142,6 +151,10 @@
     "https://deltarune.com/changingroom/": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/scream.mp3",
+      "https://deltarune.com/assets/audio/scream.ogg",
+      "https://deltarune.com/assets/audio/wing.mp3",
+      "https://deltarune.com/assets/audio/wing.ogg",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/curtain-closed.png",
       "https://deltarune.com/assets/images/curtain-open.png",
@@ -219,8 +232,13 @@
     "https://deltarune.com/d_a_m_n_y_o_u_t_e_n_n_a/": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/ocean.mp3",
+      "https://deltarune.com/assets/audio/ocean.ogg",
+      "https://deltarune.com/assets/audio/tv_static_bad.mp3",
+      "https://deltarune.com/assets/audio/tv_static_bad.ogg",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/ice.png",
+      "https://deltarune.com/assets/images/noise.png",
       "https://deltarune.com/assets/images/noise_small.png",
       "https://deltarune.com/assets/images/tv2.gif"
     ],
@@ -253,6 +271,10 @@
     "https://deltarune.com/icee/": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/face.mp3",
+      "https://deltarune.com/assets/audio/face.ogg",
+      "https://deltarune.com/assets/audio/water.mp3",
+      "https://deltarune.com/assets/audio/water.ogg",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/iceee.gif"
     ],
@@ -276,6 +298,8 @@
     "https://deltarune.com/lancer/": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/lancer-spin.mp3",
+      "https://deltarune.com/assets/audio/lancer-spin.ogg",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/lancer-spin.png"
     ],
@@ -303,6 +327,8 @@
     "https://deltarune.com/ramb": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/greenroom.mp3",
+      "https://deltarune.com/assets/audio/greenroom.ogg",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/greenroom-hidden.png",
       "https://deltarune.com/assets/images/greenroom.png"
@@ -310,6 +336,8 @@
     "https://deltarune.com/ramb/": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/greenroom.mp3",
+      "https://deltarune.com/assets/audio/greenroom.ogg",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/greenroom-hidden.png",
       "https://deltarune.com/assets/images/greenroom.png"
@@ -329,6 +357,16 @@
     "https://deltarune.com/secret/": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/crowd_ahh.mp3",
+      "https://deltarune.com/assets/audio/crowd_ahh.ogg",
+      "https://deltarune.com/assets/audio/crowd_aww.mp3",
+      "https://deltarune.com/assets/audio/crowd_aww.ogg",
+      "https://deltarune.com/assets/audio/crowd_gasp.mp3",
+      "https://deltarune.com/assets/audio/crowd_gasp.ogg",
+      "https://deltarune.com/assets/audio/crowd_ouch.mp3",
+      "https://deltarune.com/assets/audio/crowd_ouch.ogg",
+      "https://deltarune.com/assets/audio/wing.mp3",
+      "https://deltarune.com/assets/audio/wing.ogg",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/gumball.png",
       "https://deltarune.com/assets/images/pipis.png",
@@ -340,6 +378,8 @@
     "https://deltarune.com/secretpipis/": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/crowd_gasp.mp3",
+      "https://deltarune.com/assets/audio/crowd_gasp.ogg",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/pipis.png"
     ],
@@ -354,6 +394,8 @@
     "https://deltarune.com/sighting/": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/digitalroots.mp3",
+      "https://deltarune.com/assets/audio/digitalroots.ogg",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/sighting1.jpg",
       "https://deltarune.com/assets/images/sighting2.jpg"
@@ -677,7 +719,10 @@
     "https://deltarune.com/sweepstakes/credits": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/keygen_credits.mp3",
+      "https://deltarune.com/assets/audio/keygen_credits.ogg",
       "https://deltarune.com/assets/css/extra.css",
+      "https://deltarune.com/assets/images/keygen-bg.png",
       "https://deltarune.com/assets/images/keygen-fangamer-loop.gif",
       "https://deltarune.com/assets/images/keygen-fangamer.gif",
       "https://deltarune.com/assets/images/keygen-fangamer.png"
@@ -907,6 +952,8 @@
     "https://deltarune.com/weather/": [
       "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js",
       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js",
+      "https://deltarune.com/assets/audio/battle_vapor.mp3",
+      "https://deltarune.com/assets/audio/battle_vapor.ogg",
       "https://deltarune.com/assets/css/extra.css",
       "https://deltarune.com/assets/images/weather.png"
     ],
