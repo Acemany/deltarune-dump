@@ -1,8 +1,8 @@
 {
   "assets": {
     "https://deltarune.com": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/images/bg.gif",
       "https://deltarune.com/assets/images/esrb-t.png",
@@ -23,7 +23,6 @@
       "https://deltarune.com/assets/images/social-logo.png",
       "https://deltarune.com/assets/images/social-twitter.svg",
       "https://deltarune.com/assets/images/spamton-sweepstakes-logo.png",
-      "https://deltarune.com/assets/images/spire-fade.png",
       "https://deltarune.com/assets/images/ss-1-en.png",
       "https://deltarune.com/assets/images/ss-2-en.png",
       "https://deltarune.com/assets/images/ss-3-en.png",
@@ -37,8 +36,8 @@
       "https://deltarune.com/assets/images/trailer-reveal-thumb.webp"
     ],
     "https://deltarune.com/": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/images/bg.gif",
       "https://deltarune.com/assets/images/esrb-t.png",
@@ -59,7 +58,6 @@
       "https://deltarune.com/assets/images/social-logo.png",
       "https://deltarune.com/assets/images/social-twitter.svg",
       "https://deltarune.com/assets/images/spamton-sweepstakes-logo.png",
-      "https://deltarune.com/assets/images/spire-fade.png",
       "https://deltarune.com/assets/images/ss-1-en.png",
       "https://deltarune.com/assets/images/ss-2-en.png",
       "https://deltarune.com/assets/images/ss-3-en.png",
@@ -72,12 +70,7 @@
       "https://deltarune.com/assets/images/thumb-green-room-door.png",
       "https://deltarune.com/assets/images/trailer-reveal-thumb.webp"
     ],
-    "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css": [
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.svg",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg",
-      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.svg"
-    ],
-    "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js": [
+    "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js": [
       "https://deltarune.com/assets/audio/bagel_ralsei.mp3",
       "https://deltarune.com/assets/audio/bagel_ralsei.ogg",
       "https://deltarune.com/assets/audio/bagel_susie.mp3",
@@ -168,16 +161,16 @@
       "https://deltarune.com/assets/images/shadowman.gif"
     ],
     "https://deltarune.com/chapter1": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js"
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css"
     ],
     "https://deltarune.com/chapter3": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js"
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css"
     ],
     "https://deltarune.com/cheatsheet": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/images/cheatsheet/act_en.png",
       "https://deltarune.com/assets/images/cheatsheet/attackreticle_en.png",
@@ -262,8 +255,8 @@
       "https://deltarune.com/assets/javascripts/jquery.js"
     ],
     "https://deltarune.com/help": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/images/esrb-t.png",
       "https://deltarune.com/assets/images/faq-buble_en.png",
@@ -310,13 +303,13 @@
       "https://deltarune.com/assets/images/lancer-spin.png"
     ],
     "https://deltarune.com/lostwheretheforestwouldgrow": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/bluetree.png"
     ],
     "https://deltarune.com/newsletter": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/images/esrb-t.png",
       "https://deltarune.com/assets/images/flag-jp.png",
@@ -349,14 +342,14 @@
       "https://deltarune.com/assets/images/greenroom.png"
     ],
     "https://deltarune.com/rarecats": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/cat-001.gif",
       "https://deltarune.com/assets/images/window.png"
     ],
     "https://deltarune.com/romb/": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/doors.png",
       "https://deltarune.com/assets/images/square.png"
     ],
@@ -894,8 +887,8 @@
       "https://deltarune.com/assets/javascripts/jquery.js"
     ],
     "https://deltarune.com/thepoorchildren": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/tree.gif"
     ],
     "https://deltarune.com/tv/": [
@@ -905,8 +898,8 @@
       "https://deltarune.com/assets/images/tv.gif"
     ],
     "https://deltarune.com/update-092020/": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/css/main_en.css",
       "https://deltarune.com/assets/images/c2-01.png",
@@ -919,8 +912,8 @@
       "https://deltarune.com/assets/javascripts/jquery.js"
     ],
     "https://deltarune.com/update-092021/": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/css/main_en.css",
       "https://deltarune.com/assets/images/flag-jp.png",
@@ -964,14 +957,14 @@
       "https://deltarune.com/assets/images/weather.png"
     ],
     "https://deltarune.com/window": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/window.png",
       "https://deltarune.com/assets/images/wlndow.png"
     ],
     "https://deltarune.com/windows": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/window.png",
       "https://deltarune.com/assets/images/wlndow.png"
     ]
@@ -997,17 +990,6 @@
       "https://deltarune.com/update-092020/",
       "https://deltarune.com/update-092021/",
       "https://deltarune.com/update-092022/"
-    ],
-    "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css": [
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.eot",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.ttf",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.woff",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.eot",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.ttf",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.woff",
-      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.eot",
-      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.ttf",
-      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.woff"
     ],
     "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css": [
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.eot",
@@ -1331,7 +1313,6 @@
     "https://deltarune.com": [
       "https://bsky.app/profile/undertale.com",
       "https://deltarune.jp",
-      "/is-it-ready-yet.txt",
       "https://store.playstation.com/en-us/concept/233495",
       "https://store.playstation.com/en-us/product/UP3893-CUSA15235_00-TFSHVCDRPS400084",
       "https://store.steampowered.com/app/1671210/DELTARUNE/",
@@ -1347,7 +1328,6 @@
     "https://deltarune.com/": [
       "https://bsky.app/profile/undertale.com",
       "https://deltarune.jp",
-      "/is-it-ready-yet.txt",
       "https://store.playstation.com/en-us/concept/233495",
       "https://store.playstation.com/en-us/product/UP3893-CUSA15235_00-TFSHVCDRPS400084",
       "https://store.steampowered.com/app/1671210/DELTARUNE/",
