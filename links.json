@@ -100,6 +100,11 @@
       "https://deltarune.com/assets/images/cat-009.gif",
       "https://deltarune.com/assets/images/note-small.png"
     ],
+    "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css": [
+      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.svg",
+      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg",
+      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.svg"
+    ],
     "https://deltarune.com/assets/css/extra.css": [
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.svg",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg"
@@ -924,8 +929,8 @@
       "https://deltarune.com/assets/javascripts/jquery.js"
     ],
     "https://deltarune.com/update-092022/": [
-      "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css",
-      "https://deltarune.com/_bridgetown/static/index.HL73LZC4.js",
+      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/audio/update2022-castle-funk.mp3",
       "https://deltarune.com/assets/audio/update2022-castle-funk.ogg",
       "https://deltarune.com/assets/audio/update2022-greenroom.mp3",
@@ -994,6 +999,17 @@
       "https://deltarune.com/update-092022/"
     ],
     "https://deltarune.com/_bridgetown/static/index.4GH4AMCI.css": [
+      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.eot",
+      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.ttf",
+      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.woff",
+      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.eot",
+      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.ttf",
+      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.woff",
+      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.eot",
+      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.ttf",
+      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.woff"
+    ],
+    "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css": [
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.eot",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.ttf",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.woff",
