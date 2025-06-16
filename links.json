@@ -1,7 +1,7 @@
 {
   "assets": {
     "https://deltarune.com": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/images/bg.gif",
@@ -36,7 +36,7 @@
       "https://deltarune.com/assets/images/trailer-reveal-thumb.webp"
     ],
     "https://deltarune.com/": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/images/bg.gif",
@@ -70,7 +70,7 @@
       "https://deltarune.com/assets/images/thumb-green-room-door.png",
       "https://deltarune.com/assets/images/trailer-reveal-thumb.webp"
     ],
-    "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js": [
+    "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js": [
       "https://deltarune.com/assets/audio/bagel_ralsei.mp3",
       "https://deltarune.com/assets/audio/bagel_ralsei.ogg",
       "https://deltarune.com/assets/audio/bagel_susie.mp3",
@@ -93,23 +93,10 @@
       "https://deltarune.com/assets/images/cat-009.gif",
       "https://deltarune.com/assets/images/note-small.png"
     ],
-    "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css": [
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.svg",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg",
-      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.svg"
-    ],
-    "https://deltarune.com/assets/css/extra.css": [
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.svg",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg"
-    ],
     "https://deltarune.com/assets/css/journal.css": [
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.svg",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg",
       "https://deltarune.com/assets/images/bg-tree.png"
     ],
     "https://deltarune.com/assets/css/main_en.css": [
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.svg",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg",
       "https://deltarune.com/assets/images/bg.gif",
       "https://deltarune.com/assets/images/ribbon.png"
     ],
@@ -120,6 +107,7 @@
       "https://deltarune.com/assets/images/bar-fill.gif",
       "https://deltarune.com/assets/images/parchment-middle.png",
       "https://deltarune.com/assets/images/parchment-top.png",
+      "https://deltarune.com/assets/images/price-tag-split.png",
       "https://deltarune.com/assets/images/price-tag.png"
     ],
     "https://deltarune.com/blink/": [
@@ -161,15 +149,15 @@
       "https://deltarune.com/assets/images/shadowman.gif"
     ],
     "https://deltarune.com/chapter1": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css"
     ],
     "https://deltarune.com/chapter3": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css"
     ],
     "https://deltarune.com/cheatsheet": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/images/cheatsheet/act_en.png",
@@ -255,7 +243,7 @@
       "https://deltarune.com/assets/javascripts/jquery.js"
     ],
     "https://deltarune.com/help": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/images/esrb-t.png",
@@ -303,12 +291,12 @@
       "https://deltarune.com/assets/images/lancer-spin.png"
     ],
     "https://deltarune.com/lostwheretheforestwouldgrow": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/bluetree.png"
     ],
     "https://deltarune.com/newsletter": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/images/esrb-t.png",
@@ -342,13 +330,13 @@
       "https://deltarune.com/assets/images/greenroom.png"
     ],
     "https://deltarune.com/rarecats": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/cat-001.gif",
       "https://deltarune.com/assets/images/window.png"
     ],
     "https://deltarune.com/romb/": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/doors.png",
       "https://deltarune.com/assets/images/square.png"
@@ -887,7 +875,7 @@
       "https://deltarune.com/assets/javascripts/jquery.js"
     ],
     "https://deltarune.com/thepoorchildren": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/tree.gif"
     ],
@@ -898,7 +886,7 @@
       "https://deltarune.com/assets/images/tv.gif"
     ],
     "https://deltarune.com/update-092020/": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/css/main_en.css",
@@ -912,7 +900,7 @@
       "https://deltarune.com/assets/javascripts/jquery.js"
     ],
     "https://deltarune.com/update-092021/": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/css/en_US.css",
       "https://deltarune.com/assets/css/main_en.css",
@@ -922,7 +910,7 @@
       "https://deltarune.com/assets/javascripts/jquery.js"
     ],
     "https://deltarune.com/update-092022/": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/audio/update2022-castle-funk.mp3",
       "https://deltarune.com/assets/audio/update2022-castle-funk.ogg",
@@ -957,13 +945,13 @@
       "https://deltarune.com/assets/images/weather.png"
     ],
     "https://deltarune.com/window": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/window.png",
       "https://deltarune.com/assets/images/wlndow.png"
     ],
     "https://deltarune.com/windows": [
-      "https://deltarune.com/_bridgetown/static/index.EEXA3A2S.js",
+      "https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js",
       "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css",
       "https://deltarune.com/assets/images/window.png",
       "https://deltarune.com/assets/images/wlndow.png"
@@ -991,38 +979,21 @@
       "https://deltarune.com/update-092021/",
       "https://deltarune.com/update-092022/"
     ],
-    "https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css": [
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.eot",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.ttf",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.woff",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.eot",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.ttf",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.woff",
-      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.eot",
-      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.ttf",
-      "https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.woff"
-    ],
     "https://deltarune.com/assets/css/extra.css": [
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.eot",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.ttf",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.woff",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.eot",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.ttf",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.woff"
     ],
     "https://deltarune.com/assets/css/journal.css": [
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.eot",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.ttf",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.woff",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.eot",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.ttf",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.woff"
     ],
     "https://deltarune.com/assets/css/main_en.css": [
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.eot",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.ttf",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.woff",
-      "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.eot",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.ttf",
       "https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.woff"
     ],
